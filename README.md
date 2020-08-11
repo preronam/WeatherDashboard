@@ -14,3 +14,4 @@ To develop this project, the following processes were implemented:
 2) Bootstrap was used for styling along with an external style sheet
 3) Moment.js was used to format the date
 
+<img width="1439" alt="WDashboard" src="https://user-images.githubusercontent.com/65363837/89951866-cd870280-dbf1-11ea-86e0-d0bae16a67aa.png">
