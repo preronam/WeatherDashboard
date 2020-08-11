@@ -12,4 +12,5 @@ This project is a Weather Dashboard which has the following features:
 To develop this project, the following processes were implemented:
 1) Javascript was used to dynamically generate elements on the page and retrieve weather data from the Openweather API
 2) Bootstrap was used for styling along with an external style sheet
-3) 
+3) Moment.js was used to format the date
+
