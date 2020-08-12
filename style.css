@@ -1,12 +1,13 @@
+/* <---------GENERAL STYLES FOR NAV BAR & CONTAINER--------> */
 .container {
     top: auto;
-    color: purple;
+    color: darkblue;
 }
 
 .navbar{
-    background-color: lavender;
+    background-color: lemonchiffon;
 }
 
 .col-8{
-    background-color: lavender;
+    background-color: lemonchiffon;
 }
